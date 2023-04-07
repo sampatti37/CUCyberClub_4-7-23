@@ -14,3 +14,9 @@ Gef GDB:
 $ wget -O ~/.gdbinit-gef.py -q https://gef.blah.cat/py
 $ echo source ~/.gdbinit-gef.py >> ~/.gdbinit
 ```
+
+Ropper:
+
+``` Bash
+$ sudo apt-get install ropper
+```
